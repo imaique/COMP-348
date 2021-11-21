@@ -1,0 +1,3 @@
+"C:\Users\Michael\AppData\Local\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\q9.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\q9.dir/objects.a @CMakeFiles\q9.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\q9.dir/objects.a -Wl,--no-whole-archive -o q9.exe -Wl,--out-implib,libq9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\q9.dir\linklibs.rsp
